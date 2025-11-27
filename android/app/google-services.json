@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "824079717751",
+    "project_id": "jarvis-9a55e",
+    "storage_bucket": "jarvis-9a55e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824079717751:android:4f3cc709dc85bd55d5bd72",
+        "android_client_info": {
+          "package_name": "com.vm.flutter_topics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzIZeS3CIWEvmg3AvxPypTW0vAHBUdQoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824079717751:android:70dbb2385f59e0fbd5bd72",
+        "android_client_info": {
+          "package_name": "com.vm.jarvis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzIZeS3CIWEvmg3AvxPypTW0vAHBUdQoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
