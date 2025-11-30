@@ -44,7 +44,8 @@ dependencies:
   flutter_soloud: ^3.4.5
   camera:
   firebase_core:
-  firebase_ai:
+  firebase_ai: ^3.6.0
+  firebase_vertexai:
 
 dev_dependencies:
   flutter_test:
